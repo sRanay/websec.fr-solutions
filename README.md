@@ -18,7 +18,7 @@ Contains all the solutions which I have used for websec.fr
 | Level 10 | ✅ | ✅ (Need code to brute force) |
 | Level 11 | ✅ | ✅ |
 | Level 12 | ❌ | ❌ |
-| Level 13 | ❌ | ❌ |
+| Level 13 | ✅ | ✅ |
 | Level 14 | ❌ | ❌ |
 | Level 15 | ❌ | ❌ |
 | Level 16 | ❌ | ❌ |
