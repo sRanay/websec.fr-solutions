@@ -20,7 +20,7 @@ Contains all the solutions which I have used for websec.fr
 | Level 12 | ❌ | ❌ |
 | Level 13 | ✅ | ✅ |
 | Level 14 | ❌ | ❌ |
-| Level 15 | ❌ | ❌ |
+| Level 15 | ✅ | ✅ |
 | Level 16 | ❌ | ❌ |
 | Level 17 | ❌ | ✅ |
 | Level 18 | ❌ | ❌ |
